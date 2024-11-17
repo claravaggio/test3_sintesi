@@ -5,7 +5,7 @@ let rectHeight = 100; // Altezza del rettangolo bianco
 let greenArcVisible = false; // Flag per il semicerchio verde
 let greenArcAngleStart; // Angolo iniziale del semicerchio verde
 let greenArcAngleEnd; // Angolo finale del semicerchio verde
-let greenArcMoveSpeed = -0.01; // Velocità di movimento del semicerchio verde verso lo zero
+let greenArcMoveSpeed = -0.006; // Velocità di movimento del semicerchio verde verso lo zero
 
 let counter = 0; // Contatore che funge da tachimetro
 let speedIncrease = 0.5; // Velocità di aumento del contatore
